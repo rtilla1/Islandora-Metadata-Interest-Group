@@ -4,6 +4,7 @@
 
 * Rosemary Le Faive (University of Prince Edward Island)
 * Amanda Lehman (University of Wyoming)
+* Rachel Tillay (Tulane University)
 
 
 ### MIG MODS to RDF  
